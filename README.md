@@ -20,12 +20,6 @@ This project features **bubble-style buttons**, a **soft pastel UI**, and simple
 - CSS  
 - JavaScript  
 
----
-
-## 📸 Preview
-_Add a screenshot of the calculator here_
-
----
 
 ## 🚀 How to Run
 1. Download or clone the repository  
